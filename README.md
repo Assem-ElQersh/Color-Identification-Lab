@@ -30,7 +30,7 @@ This project identifies colors in an image by using OpenCV and matches them with
 ## Usage
 
 1. Place your image file in the project directory.
-2. Run the Jupyter notebook `Color_Identification_in_Images.ipynb`.
+2. Run the Jupyter notebook `Model.ipynb`.
 3. Click on any part of the image to detect the color.
 
 ## Example
